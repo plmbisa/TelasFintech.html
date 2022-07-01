@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A Fintech que te ajudar a gerir suas finanças">
+    <title>StarterWallet</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+    <header class="cabecalho">
+        <nav class="cabecalho-menu">
+            <a class="cabecalho-menu-item">Início</a>
+            <a class="cabecalho-menu-item">Invista Agora</a>
+            <a class="cabecalho-menu-item">Atendimento</a>
+            <a class="cabecalho-menu-item">Perfil</a>
+        </nav>
+
+    </header>
+
+    <main class="conteudo">
+        <section class="conteudo-principal">
+            <div class="conteudo-principal-escrito">
+                <H1 class="conteudo-principal-escrito-titulo">Boa Tarde, Isabella!</H1>
+                <h2 class="conteudo-principal-escrito-subtitulo">Vamos acompanhar sua evolução semanal?</h2>
+                <button class="conteudo-principal-escrito-botao">Evolução</button>
+            </div>
+            <img class="conteudo-principal-imagem" src="pngbranco.png" alt="Logo StarterWallet">
+
+
+        </section>
+        <section class="conteudo-secundario">
+            <h3 class="conteudo-secundario-titulo">Qual seu próximo passo?</h3>
+            <p class="conteudo-secundario-paragrafo">1. Faça seu perfil de Investidor</p>
+            <p class="conteudo-secundario-paragrafo">2. Acompanhe quais ações estão em alta hoje</p>
+            <p class="conteudo-secundario-paragrafo">3. Renda Fixa, Tesouro Direto ou Ações da Bolsa? Descubra a melhor opção para você</p>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <img class="rodape-imagem" src="pngbranco.png">
+    </footer>
+</body>
+
+</html>
